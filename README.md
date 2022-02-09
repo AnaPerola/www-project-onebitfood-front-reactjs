@@ -2,7 +2,7 @@
   <img height="150em" src="https://i2.wp.com/onebitcode.com/wp-content/uploads/2017/10/logo-redondo.png?ssl=1" />
 </div>
 
-## ✨ Seja bem vindo ao projeto OneBitFood 
+## ✨ Seja bem vindo ao projeto OneBitFood - Front-end
 
 <div align="center">
   <img src="https://github.com/AnaPerola/project-onebitfood-front-reactjs/blob/main/public/FrontEnd-OnebitFood.gif" height="480em" />
