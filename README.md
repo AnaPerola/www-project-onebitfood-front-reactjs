@@ -1,12 +1,14 @@
 <div align="center">
-  <img height="180em" src="https://i2.wp.com/onebitcode.com/wp-content/uploads/2017/10/logo-redondo.png?ssl=1" />
+  <img height="150em" src="https://i2.wp.com/onebitcode.com/wp-content/uploads/2017/10/logo-redondo.png?ssl=1" />
 </div>
 
-## Seja bem vindo ao projeto OneBitFood 
+## ✨ Seja bem vindo ao projeto OneBitFood 
 
 <div align="center">
-  <img height="120em" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/7ba73aaa-3da9-4cf1-abf2-ccc85dea5875/uid_3592131/obf-lightbg-techsS.png" />
+  <img src="https://github.com/AnaPerola/project-onebitfood-front-reactjs/blob/main/public/FrontEnd-OnebitFood.gif" height="480em" />
 </div>
+
+##
 
 > Projeto construido pela @anaperola 💖 juntamente com o OneBitCode
 
