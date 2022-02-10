@@ -19,8 +19,8 @@ Esse projeto foi desenvolvido com o objetivo desenvolver com ambas as ferramenta
 
 # ✨ Tecnologias utilizadas:
 
-- [React](https://www.ruby-lang.org/pt/)
-- [NextJs](https://rubyonrails.org/)
+- [React](https://reactjs.org/)
+- [NextJs](https://nextjs.org/)
 
 <div>
   <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
